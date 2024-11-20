@@ -1,0 +1,9 @@
+//
+//  .gitignore
+//  fake-news-detector-finale
+//
+//  Created by Maksym Sapaniuk on 20.11.2024.
+//
+
+fake-news-detector-finale/FakeNewsClassifier.mlpackage/
+fake-news-detector-finale/vocab.json

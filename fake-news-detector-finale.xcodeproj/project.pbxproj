@@ -6,8 +6,15 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		2D5D662A2CEDFF74008FF5FD /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 2D5D66292CEDFF6D008FF5FD /* .gitignore */; };
+		2D5D66342CEE014C008FF5FD /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2D5D66332CEE014C008FF5FD /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		2D5D66182CEDFD8F008FF5FD /* fake-news-detector-finale.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "fake-news-detector-finale.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D5D66292CEDFF6D008FF5FD /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		2D5D66332CEE014C008FF5FD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +39,8 @@
 		2D5D660F2CEDFD8F008FF5FD = {
 			isa = PBXGroup;
 			children = (
+				2D5D66292CEDFF6D008FF5FD /* .gitignore */,
+				2D5D66332CEE014C008FF5FD /* README.md */,
 				2D5D661A2CEDFD8F008FF5FD /* fake-news-detector-finale */,
 				2D5D66192CEDFD8F008FF5FD /* Products */,
 			);
@@ -109,6 +118,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2D5D66342CEE014C008FF5FD /* README.md in Resources */,
+				2D5D662A2CEDFF74008FF5FD /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
